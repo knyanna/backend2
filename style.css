@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 90%;
+  }
+  h3 { color: rgb(250, 248, 111);}
+  .list,
+.form {
+    max-width: 1480px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+  img {
+    width: 90%;
+
+  }
